@@ -9,4 +9,7 @@ layout: miembros
 *Hermenejildo*
 ><div style="text-align: justify"> La persona enargada de diseñar y modelar las piezas de las propuestas
 ### Investigador
-!
+![Alt text](/miembros/investigador.jpg){:height="140px" width="140px"}
+
+*Hermenejildo*
+><div style="text-align: justify"> La persona enargada de diseñar y modelar las piezas de las propuestas
